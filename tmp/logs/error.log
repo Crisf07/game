@@ -22456,3 +22456,12 @@ Stack Trace:
 #3 /var/cakephp/2.7.7/lib/Cake/Core/App.php(906): App::_checkFatalError()
 #4 [internal function]: App::shutdown()
 #5 {main}
+2015-12-29 11:03:54 Error: [MissingControllerException] Controller class FrghjkController could not be found.
+Exception Attributes: array (
+  'class' => 'FrghjkController',
+  'plugin' => NULL,
+)
+Request URL: /frghjk
+Stack Trace:
+#0 /var/www/game/webroot/index.php(112): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
