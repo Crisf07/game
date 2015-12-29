@@ -1,0 +1,1161 @@
+2015-12-23 15:36:22 Notice: Notice (8): Undefined index: id in [/var/www/navidator/Controller/RecordsController.php, line 107]
+Trace:
+RecordsController::dif() - APP/Controller/RecordsController.php, line 107
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-23 15:39:51 Notice: Notice (8): Undefined variable: exist in [/var/www/navidator/Controller/RecordsController.php, line 105]
+Trace:
+RecordsController::dif() - APP/Controller/RecordsController.php, line 105
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-23 15:39:51 Notice: Notice (8): Undefined index: id in [/var/www/navidator/Controller/RecordsController.php, line 107]
+Trace:
+RecordsController::dif() - APP/Controller/RecordsController.php, line 107
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-23 15:40:27 Notice: Notice (8): Undefined variable: exist in [/var/www/navidator/Controller/RecordsController.php, line 105]
+Trace:
+RecordsController::dif() - APP/Controller/RecordsController.php, line 105
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-23 15:40:36 Notice: Notice (8): Undefined variable: exist in [/var/www/navidator/Controller/RecordsController.php, line 105]
+Trace:
+RecordsController::dif() - APP/Controller/RecordsController.php, line 105
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-23 15:40:36 Notice: Notice (8): Undefined index: id in [/var/www/navidator/Controller/RecordsController.php, line 109]
+Trace:
+RecordsController::dif() - APP/Controller/RecordsController.php, line 109
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-23 15:41:31 Notice: Notice (8): Undefined index: id in [/var/www/navidator/Controller/RecordsController.php, line 107]
+Trace:
+RecordsController::dif() - APP/Controller/RecordsController.php, line 107
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-23 15:44:59 Notice: Notice (8): Undefined index: id in [/var/www/navidator/Controller/RecordsController.php, line 110]
+Trace:
+RecordsController::dif() - APP/Controller/RecordsController.php, line 110
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-23 15:45:14 Notice: Notice (8): Undefined index: id in [/var/www/navidator/Controller/RecordsController.php, line 110]
+Trace:
+RecordsController::dif() - APP/Controller/RecordsController.php, line 110
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-23 15:45:47 Notice: Notice (8): Undefined index: id in [/var/www/navidator/Controller/RecordsController.php, line 112]
+Trace:
+RecordsController::dif() - APP/Controller/RecordsController.php, line 112
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-23 15:47:54 Notice: Notice (8): Undefined index: id in [/var/www/navidator/Controller/RecordsController.php, line 110]
+Trace:
+RecordsController::dif() - APP/Controller/RecordsController.php, line 110
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-23 15:52:27 Notice: Notice (8): Undefined index: id in [/var/www/navidator/Controller/RecordsController.php, line 112]
+Trace:
+RecordsController::dif() - APP/Controller/RecordsController.php, line 112
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-23 15:54:01 Notice: Notice (8): Undefined index: id in [/var/www/navidator/Controller/RecordsController.php, line 108]
+Trace:
+RecordsController::dif() - APP/Controller/RecordsController.php, line 108
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-23 15:54:24 Notice: Notice (8): Undefined index: id in [/var/www/navidator/Controller/RecordsController.php, line 108]
+Trace:
+RecordsController::dif() - APP/Controller/RecordsController.php, line 108
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-23 16:02:08 Notice: Notice (8): Undefined variable: c in [/var/www/navidator/Controller/RecordsController.php, line 107]
+Trace:
+RecordsController::dif() - APP/Controller/RecordsController.php, line 107
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-23 16:04:35 Notice: Notice (8): Undefined index: id in [/var/www/navidator/Controller/RecordsController.php, line 111]
+Trace:
+RecordsController::dif() - APP/Controller/RecordsController.php, line 111
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-23 16:14:16 Notice: Notice (8): Undefined index: nombre in [/var/www/navidator/Controller/UsersController.php, line 80]
+Trace:
+UsersController::profile() - APP/Controller/UsersController.php, line 80
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-23 16:14:16 Notice: Notice (8): Undefined index: nombre in [/var/www/navidator/Controller/UsersController.php, line 82]
+Trace:
+UsersController::profile() - APP/Controller/UsersController.php, line 82
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-23 16:14:16 Notice: Notice (8): Undefined index: nombre in [/var/www/navidator/Controller/UsersController.php, line 84]
+Trace:
+UsersController::profile() - APP/Controller/UsersController.php, line 84
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-23 16:20:18 Notice: Notice (8): Undefined index: id in [/var/www/navidator/Controller/RecordsController.php, line 111]
+Trace:
+RecordsController::dif() - APP/Controller/RecordsController.php, line 111
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-23 16:20:28 Notice: Notice (8): Undefined index: id in [/var/www/navidator/Controller/RecordsController.php, line 111]
+Trace:
+RecordsController::dif() - APP/Controller/RecordsController.php, line 111
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-23 16:21:43 Notice: Notice (8): Undefined index: id in [/var/www/navidator/Controller/RecordsController.php, line 111]
+Trace:
+RecordsController::dif() - APP/Controller/RecordsController.php, line 111
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-23 16:23:12 Notice: Notice (8): Undefined index: id in [/var/www/navidator/Controller/RecordsController.php, line 111]
+Trace:
+RecordsController::dif() - APP/Controller/RecordsController.php, line 111
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-23 16:27:36 Notice: Notice (8): Undefined index: id in [/var/www/navidator/Controller/RecordsController.php, line 111]
+Trace:
+RecordsController::dif() - APP/Controller/RecordsController.php, line 111
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-23 16:31:57 Notice: Notice (8): Undefined index: nombre in [/var/www/navidator/Controller/UsersController.php, line 80]
+Trace:
+UsersController::profile() - APP/Controller/UsersController.php, line 80
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-23 16:31:57 Notice: Notice (8): Undefined index: nombre in [/var/www/navidator/Controller/UsersController.php, line 82]
+Trace:
+UsersController::profile() - APP/Controller/UsersController.php, line 82
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-23 16:31:57 Notice: Notice (8): Undefined index: nombre in [/var/www/navidator/Controller/UsersController.php, line 84]
+Trace:
+UsersController::profile() - APP/Controller/UsersController.php, line 84
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-23 16:31:57 Notice: Notice (8): Undefined index: nombre in [/var/www/navidator/Controller/UsersController.php, line 80]
+Trace:
+UsersController::profile() - APP/Controller/UsersController.php, line 80
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-23 16:31:57 Notice: Notice (8): Undefined index: nombre in [/var/www/navidator/Controller/UsersController.php, line 82]
+Trace:
+UsersController::profile() - APP/Controller/UsersController.php, line 82
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-23 16:31:57 Notice: Notice (8): Undefined index: nombre in [/var/www/navidator/Controller/UsersController.php, line 84]
+Trace:
+UsersController::profile() - APP/Controller/UsersController.php, line 84
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-23 16:31:57 Notice: Notice (8): Undefined index: nombre in [/var/www/navidator/Controller/UsersController.php, line 80]
+Trace:
+UsersController::profile() - APP/Controller/UsersController.php, line 80
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-23 16:31:57 Notice: Notice (8): Undefined index: nombre in [/var/www/navidator/Controller/UsersController.php, line 82]
+Trace:
+UsersController::profile() - APP/Controller/UsersController.php, line 82
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-23 16:31:57 Notice: Notice (8): Undefined index: nombre in [/var/www/navidator/Controller/UsersController.php, line 84]
+Trace:
+UsersController::profile() - APP/Controller/UsersController.php, line 84
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-23 16:31:57 Notice: Notice (8): Undefined index: nombre in [/var/www/navidator/Controller/UsersController.php, line 80]
+Trace:
+UsersController::profile() - APP/Controller/UsersController.php, line 80
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-23 16:31:57 Notice: Notice (8): Undefined index: nombre in [/var/www/navidator/Controller/UsersController.php, line 82]
+Trace:
+UsersController::profile() - APP/Controller/UsersController.php, line 82
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-23 16:31:57 Notice: Notice (8): Undefined index: nombre in [/var/www/navidator/Controller/UsersController.php, line 84]
+Trace:
+UsersController::profile() - APP/Controller/UsersController.php, line 84
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-23 16:32:22 Notice: Notice (8): Undefined index: nombre in [/var/www/navidator/Controller/UsersController.php, line 80]
+Trace:
+UsersController::profile() - APP/Controller/UsersController.php, line 80
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-23 16:32:22 Notice: Notice (8): Undefined index: nombre in [/var/www/navidator/Controller/UsersController.php, line 82]
+Trace:
+UsersController::profile() - APP/Controller/UsersController.php, line 82
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-23 16:32:22 Notice: Notice (8): Undefined index: nombre in [/var/www/navidator/Controller/UsersController.php, line 84]
+Trace:
+UsersController::profile() - APP/Controller/UsersController.php, line 84
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-23 16:32:22 Notice: Notice (8): Undefined index: nombre in [/var/www/navidator/Controller/UsersController.php, line 80]
+Trace:
+UsersController::profile() - APP/Controller/UsersController.php, line 80
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-23 16:32:22 Notice: Notice (8): Undefined index: nombre in [/var/www/navidator/Controller/UsersController.php, line 82]
+Trace:
+UsersController::profile() - APP/Controller/UsersController.php, line 82
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-23 16:32:22 Notice: Notice (8): Undefined index: nombre in [/var/www/navidator/Controller/UsersController.php, line 84]
+Trace:
+UsersController::profile() - APP/Controller/UsersController.php, line 84
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-23 16:32:22 Notice: Notice (8): Undefined index: nombre in [/var/www/navidator/Controller/UsersController.php, line 80]
+Trace:
+UsersController::profile() - APP/Controller/UsersController.php, line 80
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-23 16:32:22 Notice: Notice (8): Undefined index: nombre in [/var/www/navidator/Controller/UsersController.php, line 82]
+Trace:
+UsersController::profile() - APP/Controller/UsersController.php, line 82
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-23 16:32:22 Notice: Notice (8): Undefined index: nombre in [/var/www/navidator/Controller/UsersController.php, line 84]
+Trace:
+UsersController::profile() - APP/Controller/UsersController.php, line 84
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-23 16:32:22 Notice: Notice (8): Undefined index: nombre in [/var/www/navidator/Controller/UsersController.php, line 80]
+Trace:
+UsersController::profile() - APP/Controller/UsersController.php, line 80
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-23 16:32:22 Notice: Notice (8): Undefined index: nombre in [/var/www/navidator/Controller/UsersController.php, line 82]
+Trace:
+UsersController::profile() - APP/Controller/UsersController.php, line 82
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-23 16:32:22 Notice: Notice (8): Undefined index: nombre in [/var/www/navidator/Controller/UsersController.php, line 84]
+Trace:
+UsersController::profile() - APP/Controller/UsersController.php, line 84
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-23 16:32:22 Notice: Notice (8): Undefined index: nombre in [/var/www/navidator/Controller/UsersController.php, line 80]
+Trace:
+UsersController::profile() - APP/Controller/UsersController.php, line 80
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-23 16:32:22 Notice: Notice (8): Undefined index: nombre in [/var/www/navidator/Controller/UsersController.php, line 82]
+Trace:
+UsersController::profile() - APP/Controller/UsersController.php, line 82
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-23 16:32:22 Notice: Notice (8): Undefined index: nombre in [/var/www/navidator/Controller/UsersController.php, line 84]
+Trace:
+UsersController::profile() - APP/Controller/UsersController.php, line 84
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-23 16:32:23 Notice: Notice (8): Undefined index: nombre in [/var/www/navidator/Controller/UsersController.php, line 80]
+Trace:
+UsersController::profile() - APP/Controller/UsersController.php, line 80
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-23 16:32:23 Notice: Notice (8): Undefined index: nombre in [/var/www/navidator/Controller/UsersController.php, line 82]
+Trace:
+UsersController::profile() - APP/Controller/UsersController.php, line 82
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-23 16:32:23 Notice: Notice (8): Undefined index: nombre in [/var/www/navidator/Controller/UsersController.php, line 84]
+Trace:
+UsersController::profile() - APP/Controller/UsersController.php, line 84
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-23 16:32:23 Notice: Notice (8): Undefined index: nombre in [/var/www/navidator/Controller/UsersController.php, line 80]
+Trace:
+UsersController::profile() - APP/Controller/UsersController.php, line 80
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-23 16:32:23 Notice: Notice (8): Undefined index: nombre in [/var/www/navidator/Controller/UsersController.php, line 82]
+Trace:
+UsersController::profile() - APP/Controller/UsersController.php, line 82
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-23 16:32:23 Notice: Notice (8): Undefined index: nombre in [/var/www/navidator/Controller/UsersController.php, line 84]
+Trace:
+UsersController::profile() - APP/Controller/UsersController.php, line 84
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-23 16:32:23 Notice: Notice (8): Undefined index: nombre in [/var/www/navidator/Controller/UsersController.php, line 80]
+Trace:
+UsersController::profile() - APP/Controller/UsersController.php, line 80
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-23 16:32:23 Notice: Notice (8): Undefined index: nombre in [/var/www/navidator/Controller/UsersController.php, line 82]
+Trace:
+UsersController::profile() - APP/Controller/UsersController.php, line 82
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-23 16:32:23 Notice: Notice (8): Undefined index: nombre in [/var/www/navidator/Controller/UsersController.php, line 84]
+Trace:
+UsersController::profile() - APP/Controller/UsersController.php, line 84
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-23 16:32:23 Notice: Notice (8): Undefined index: nombre in [/var/www/navidator/Controller/UsersController.php, line 80]
+Trace:
+UsersController::profile() - APP/Controller/UsersController.php, line 80
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-23 16:32:23 Notice: Notice (8): Undefined index: nombre in [/var/www/navidator/Controller/UsersController.php, line 82]
+Trace:
+UsersController::profile() - APP/Controller/UsersController.php, line 82
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-23 16:32:23 Notice: Notice (8): Undefined index: nombre in [/var/www/navidator/Controller/UsersController.php, line 84]
+Trace:
+UsersController::profile() - APP/Controller/UsersController.php, line 84
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-23 16:32:23 Notice: Notice (8): Undefined index: nombre in [/var/www/navidator/Controller/UsersController.php, line 80]
+Trace:
+UsersController::profile() - APP/Controller/UsersController.php, line 80
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-23 16:32:23 Notice: Notice (8): Undefined index: nombre in [/var/www/navidator/Controller/UsersController.php, line 82]
+Trace:
+UsersController::profile() - APP/Controller/UsersController.php, line 82
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-23 16:32:23 Notice: Notice (8): Undefined index: nombre in [/var/www/navidator/Controller/UsersController.php, line 84]
+Trace:
+UsersController::profile() - APP/Controller/UsersController.php, line 84
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-23 16:33:22 Notice: Notice (8): Undefined index: nombre in [/var/www/navidator/Controller/UsersController.php, line 80]
+Trace:
+UsersController::profile() - APP/Controller/UsersController.php, line 80
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-23 16:33:22 Notice: Notice (8): Undefined index: nombre in [/var/www/navidator/Controller/UsersController.php, line 82]
+Trace:
+UsersController::profile() - APP/Controller/UsersController.php, line 82
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-23 16:33:22 Notice: Notice (8): Undefined index: nombre in [/var/www/navidator/Controller/UsersController.php, line 84]
+Trace:
+UsersController::profile() - APP/Controller/UsersController.php, line 84
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-23 16:33:22 Notice: Notice (8): Undefined index: nombre in [/var/www/navidator/Controller/UsersController.php, line 80]
+Trace:
+UsersController::profile() - APP/Controller/UsersController.php, line 80
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-23 16:33:22 Notice: Notice (8): Undefined index: nombre in [/var/www/navidator/Controller/UsersController.php, line 82]
+Trace:
+UsersController::profile() - APP/Controller/UsersController.php, line 82
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-23 16:33:22 Notice: Notice (8): Undefined index: nombre in [/var/www/navidator/Controller/UsersController.php, line 84]
+Trace:
+UsersController::profile() - APP/Controller/UsersController.php, line 84
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-23 16:33:22 Notice: Notice (8): Undefined index: nombre in [/var/www/navidator/Controller/UsersController.php, line 80]
+Trace:
+UsersController::profile() - APP/Controller/UsersController.php, line 80
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-23 16:33:22 Notice: Notice (8): Undefined index: nombre in [/var/www/navidator/Controller/UsersController.php, line 82]
+Trace:
+UsersController::profile() - APP/Controller/UsersController.php, line 82
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-23 16:33:22 Notice: Notice (8): Undefined index: nombre in [/var/www/navidator/Controller/UsersController.php, line 84]
+Trace:
+UsersController::profile() - APP/Controller/UsersController.php, line 84
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-23 16:33:22 Notice: Notice (8): Undefined index: nombre in [/var/www/navidator/Controller/UsersController.php, line 80]
+Trace:
+UsersController::profile() - APP/Controller/UsersController.php, line 80
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-23 16:33:22 Notice: Notice (8): Undefined index: nombre in [/var/www/navidator/Controller/UsersController.php, line 82]
+Trace:
+UsersController::profile() - APP/Controller/UsersController.php, line 82
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-23 16:33:22 Notice: Notice (8): Undefined index: nombre in [/var/www/navidator/Controller/UsersController.php, line 84]
+Trace:
+UsersController::profile() - APP/Controller/UsersController.php, line 84
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-23 16:33:22 Notice: Notice (8): Undefined index: nombre in [/var/www/navidator/Controller/UsersController.php, line 80]
+Trace:
+UsersController::profile() - APP/Controller/UsersController.php, line 80
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-23 16:33:22 Notice: Notice (8): Undefined index: nombre in [/var/www/navidator/Controller/UsersController.php, line 82]
+Trace:
+UsersController::profile() - APP/Controller/UsersController.php, line 82
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-23 16:33:22 Notice: Notice (8): Undefined index: nombre in [/var/www/navidator/Controller/UsersController.php, line 84]
+Trace:
+UsersController::profile() - APP/Controller/UsersController.php, line 84
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-23 16:40:56 Notice: Notice (8): Undefined index: id in [/var/www/navidator/View/Elements/record.ctp, line 55]
+Trace:
+include - APP/View/Elements/record.ctp, line 55
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::_renderElement() - CORE/Cake/View/View.php, line 1224
+View::element() - CORE/Cake/View/View.php, line 418
+include - APP/View/Records/ranking.ctp, line 7
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 960
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-23 16:41:50 Notice: Notice (8): Undefined index: id in [/var/www/navidator/View/Elements/record.ctp, line 55]
+Trace:
+include - APP/View/Elements/record.ctp, line 55
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::_renderElement() - CORE/Cake/View/View.php, line 1224
+View::element() - CORE/Cake/View/View.php, line 418
+include - APP/View/Records/ranking.ctp, line 7
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 960
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-23 16:44:19 Notice: Notice (8): Undefined index: id in [/var/www/navidator/View/Elements/record.ctp, line 55]
+Trace:
+include - APP/View/Elements/record.ctp, line 55
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::_renderElement() - CORE/Cake/View/View.php, line 1224
+View::element() - CORE/Cake/View/View.php, line 418
+include - APP/View/Records/ranking.ctp, line 7
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 960
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-24 09:21:21 Notice: Notice (8): Undefined offset: 9 in [/var/www/navidator/View/Users/profile.ctp, line 43]
+Trace:
+include - APP/View/Users/profile.ctp, line 43
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 960
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-24 09:21:21 Notice: Notice (8): Undefined offset: 10 in [/var/www/navidator/View/Users/profile.ctp, line 43]
+Trace:
+include - APP/View/Users/profile.ctp, line 43
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 960
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-24 09:21:21 Notice: Notice (8): Undefined offset: 26 in [/var/www/navidator/View/Users/profile.ctp, line 43]
+Trace:
+include - APP/View/Users/profile.ctp, line 43
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 960
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-24 09:21:34 Notice: Notice (8): Array to string conversion in [/var/www/navidator/View/Users/profile.ctp, line 42]
+Trace:
+include - APP/View/Users/profile.ctp, line 42
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 960
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-24 09:21:34 Notice: Notice (8): Undefined offset: 10 in [/var/www/navidator/View/Users/profile.ctp, line 42]
+Trace:
+include - APP/View/Users/profile.ctp, line 42
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 960
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-24 09:21:34 Notice: Notice (8): Undefined offset: 26 in [/var/www/navidator/View/Users/profile.ctp, line 42]
+Trace:
+include - APP/View/Users/profile.ctp, line 42
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 960
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-24 09:25:55 Notice: Notice (8): Array to string conversion in [/var/www/navidator/View/Users/profile.ctp, line 57]
+Trace:
+include - APP/View/Users/profile.ctp, line 57
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 960
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-24 09:25:55 Notice: Notice (8): Array to string conversion in [/var/www/navidator/View/Users/profile.ctp, line 57]
+Trace:
+include - APP/View/Users/profile.ctp, line 57
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 960
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-24 09:25:55 Notice: Notice (8): Array to string conversion in [/var/www/navidator/View/Users/profile.ctp, line 57]
+Trace:
+include - APP/View/Users/profile.ctp, line 57
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 960
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-24 09:25:55 Notice: Notice (8): Array to string conversion in [/var/www/navidator/View/Users/profile.ctp, line 57]
+Trace:
+include - APP/View/Users/profile.ctp, line 57
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 960
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-24 09:25:55 Notice: Notice (8): Array to string conversion in [/var/www/navidator/View/Users/profile.ctp, line 57]
+Trace:
+include - APP/View/Users/profile.ctp, line 57
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 960
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-24 09:25:55 Notice: Notice (8): Array to string conversion in [/var/www/navidator/View/Users/profile.ctp, line 57]
+Trace:
+include - APP/View/Users/profile.ctp, line 57
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 960
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-24 09:25:55 Notice: Notice (8): Array to string conversion in [/var/www/navidator/View/Users/profile.ctp, line 57]
+Trace:
+include - APP/View/Users/profile.ctp, line 57
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 960
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-24 10:00:58 Notice: Notice (8): Array to string conversion in [/var/www/navidator/View/Users/profile.ctp, line 1]
+Trace:
+include - APP/View/Users/profile.ctp, line 1
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 960
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-24 10:02:40 Notice: Notice (8): Array to string conversion in [/var/www/navidator/View/Users/profile.ctp, line 25]
+Trace:
+include - APP/View/Users/profile.ctp, line 25
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 960
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-24 10:02:41 Notice: Notice (8): Array to string conversion in [/var/www/navidator/View/Users/profile.ctp, line 25]
+Trace:
+include - APP/View/Users/profile.ctp, line 25
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 960
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-24 10:02:42 Notice: Notice (8): Array to string conversion in [/var/www/navidator/View/Users/profile.ctp, line 25]
+Trace:
+include - APP/View/Users/profile.ctp, line 25
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 960
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-24 10:02:42 Notice: Notice (8): Array to string conversion in [/var/www/navidator/View/Users/profile.ctp, line 25]
+Trace:
+include - APP/View/Users/profile.ctp, line 25
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 960
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-24 10:02:43 Notice: Notice (8): Array to string conversion in [/var/www/navidator/View/Users/profile.ctp, line 25]
+Trace:
+include - APP/View/Users/profile.ctp, line 25
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 960
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-24 10:02:43 Notice: Notice (8): Array to string conversion in [/var/www/navidator/View/Users/profile.ctp, line 25]
+Trace:
+include - APP/View/Users/profile.ctp, line 25
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 960
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-24 10:02:43 Notice: Notice (8): Array to string conversion in [/var/www/navidator/View/Users/profile.ctp, line 25]
+Trace:
+include - APP/View/Users/profile.ctp, line 25
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 960
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-24 10:02:43 Notice: Notice (8): Array to string conversion in [/var/www/navidator/View/Users/profile.ctp, line 25]
+Trace:
+include - APP/View/Users/profile.ctp, line 25
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 960
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-24 10:02:44 Notice: Notice (8): Array to string conversion in [/var/www/navidator/View/Users/profile.ctp, line 25]
+Trace:
+include - APP/View/Users/profile.ctp, line 25
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 960
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-24 10:02:44 Notice: Notice (8): Array to string conversion in [/var/www/navidator/View/Users/profile.ctp, line 25]
+Trace:
+include - APP/View/Users/profile.ctp, line 25
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 960
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-24 10:02:44 Notice: Notice (8): Array to string conversion in [/var/www/navidator/View/Users/profile.ctp, line 25]
+Trace:
+include - APP/View/Users/profile.ctp, line 25
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 960
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-24 10:02:45 Notice: Notice (8): Array to string conversion in [/var/www/navidator/View/Users/profile.ctp, line 25]
+Trace:
+include - APP/View/Users/profile.ctp, line 25
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 960
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-24 10:02:45 Notice: Notice (8): Array to string conversion in [/var/www/navidator/View/Users/profile.ctp, line 25]
+Trace:
+include - APP/View/Users/profile.ctp, line 25
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 960
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-24 10:02:45 Notice: Notice (8): Array to string conversion in [/var/www/navidator/View/Users/profile.ctp, line 25]
+Trace:
+include - APP/View/Users/profile.ctp, line 25
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 960
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-24 10:02:47 Notice: Notice (8): Array to string conversion in [/var/www/navidator/View/Users/profile.ctp, line 25]
+Trace:
+include - APP/View/Users/profile.ctp, line 25
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 960
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-24 10:15:04 Notice: Notice (8): Array to string conversion in [/var/www/navidator/View/Users/profile.ctp, line 25]
+Trace:
+include - APP/View/Users/profile.ctp, line 25
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 960
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-24 10:34:00 Notice: Notice (8): Undefined index: nombre in [/var/www/navidator/Controller/UsersController.php, line 80]
+Trace:
+UsersController::profile() - APP/Controller/UsersController.php, line 80
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-24 10:34:00 Notice: Notice (8): Undefined index: nombre in [/var/www/navidator/Controller/UsersController.php, line 82]
+Trace:
+UsersController::profile() - APP/Controller/UsersController.php, line 82
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-24 10:34:00 Notice: Notice (8): Undefined index: nombre in [/var/www/navidator/Controller/UsersController.php, line 84]
+Trace:
+UsersController::profile() - APP/Controller/UsersController.php, line 84
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-24 10:34:29 Notice: Notice (8): Undefined index: nombre in [/var/www/navidator/Controller/UsersController.php, line 80]
+Trace:
+UsersController::profile() - APP/Controller/UsersController.php, line 80
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-24 10:34:29 Notice: Notice (8): Undefined index: nombre in [/var/www/navidator/Controller/UsersController.php, line 82]
+Trace:
+UsersController::profile() - APP/Controller/UsersController.php, line 82
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+
+2015-12-24 10:34:29 Notice: Notice (8): Undefined index: nombre in [/var/www/navidator/Controller/UsersController.php, line 84]
+Trace:
+UsersController::profile() - APP/Controller/UsersController.php, line 84
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 112
+

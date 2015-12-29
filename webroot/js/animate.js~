@@ -1,0 +1,277 @@
+$(document).ready(function(){
+    var cont = 0;
+    $('.container5').snowfall({flakeCount : 100, maxSpeed : 6, shadow: 100, minSize: 2, maxSize: 7, round: 200});
+    
+    //********FUNCION ANIMACION DE CARTAS******** 
+    $('.game li').click(function(){
+        if ($(this).hasClass('lala'))
+        {
+            $(this).removeClass('lala');
+            cont = cont - 1;
+        }
+        else
+        {
+            if (cont < 2)
+            {
+                $(this).addClass('lala');
+                cont = cont + 1;
+                console.log ("Hay" + cont + " elementos");
+            }
+        }
+    });
+    //********FIN ANIMACION DE CARTAS******** 
+    
+    //********FUNCION MUESTRA DE REGISTRO********
+    $('.showreg').click(function(){
+        $('.container6').fadeIn('slow');
+        $('.container5').css("opacity", "0.1");
+        $('.showreg').css("color", "purple");
+    });
+    //********FIN FUNCION MUESTRA DE REGISTRO********
+    
+    //********FUNCION OCULTAR REGISTRO********
+    $(document).mouseup(function (e)
+    {
+    var container = $('.container6');
+
+    if (!container.is(e.target) 
+        && container.has(e.target).length === 0)
+    {
+        container.fadeOut('slow');
+        $('.container5').css("opacity", "1");
+        $('.container5').css("transition", "1.5s");
+    }
+    });
+    //********FIN OCULTAR REGISTRO********
+    
+    //********MUESTRA DE DIFICULTAD********
+    $('.gamestart').click(function(){
+        $('.gamestart').hide();
+        $('.dific').fadeIn('slow');
+    });
+    //********FIN MUESTRA DE DIFICULTAD********
+    
+    //********INICIO DE GAME********
+    
+    $('#beasy').click(function(){
+        $('.containerb').hide();
+        $('.container').fadeIn('slow');
+        $('#easy').css("display", "block");
+    });
+     $('#bmedium').click(function(){
+        $('.containerb').hide();
+        $('.container').fadeIn('slow');
+        $('#medium').css("display", "block");
+    });
+     $('#bhard').click(function(){
+        $('.containerb').hide();
+        $('.container').fadeIn('slow');
+        $('#hard').css("display", "block");
+    });
+    $('#bveryhard').click(function(){
+        $('.containerb').hide();
+        $('.container').fadeIn('slow');
+        $('#veryhard').css("display", "block");
+    });
+    
+    //********FIN INICIO DE GAME********
+    
+    //********FUNCIONES MUESTRA DE LOGROS********
+    var con = 0;
+    $('#show1').click(function(){
+        if (con == 0)
+        {
+            $('#troph1').fadeIn('slow');
+            $('#show1').html("Ocultar Logros");
+            con = 1;
+        }
+        else
+        {
+            if (con == 1)
+            {
+                $('#troph1').fadeOut('slow');
+                $('#show1').html("Mostrar Logros");
+                con = 0;
+            }
+        }
+    });
+    
+    $('#show2').click(function(){
+        if (con == 0)
+        {
+            $('#troph2').fadeIn('slow');
+            $('#show2').html("Ocultar Logros");
+            con = 1;
+        }
+        else
+        {
+            if (con == 1)
+            {
+                $('#troph2').fadeOut('slow');
+                $('#show2').html("Mostrar Logros");
+                con = 0;
+            }
+        }
+    });
+    
+    $('#show3').click(function(){
+        if (con == 0)
+        {
+            $('#troph3').fadeIn('slow');
+            $('#show3').html("Ocultar Logros");
+            con = 1;
+        }
+        else
+        {
+            if (con == 1)
+            {
+                $('#troph3').fadeOut('slow');
+                $('#show3').html("Mostrar Logros");
+                con = 0;
+            }
+        }
+    });
+    
+    $('#show4').click(function(){
+        if (con == 0)
+        {
+            $('#troph4').fadeIn('slow');
+            $('#show4').html("Ocultar Logros");
+            con = 1;
+        }
+        else
+        {
+            if (con == 1)
+            {
+                $('#troph4').fadeOut('slow');
+                $('#show4').html("Mostrar Logros");
+                con = 0;
+            }
+        }
+    });
+    
+    $('#show5').click(function(){
+        if (con == 0)
+        {
+            $('#troph5').fadeIn('slow');
+            $('#show5').html("Ocultar Logros");
+            con = 1;
+        }
+        else
+        {
+            if (con == 1)
+            {
+                $('#troph5').fadeOut('slow');
+                $('#show5').html("Mostrar Logros");
+                con = 0;
+            }
+        }
+    });
+    
+    $('#show6').click(function(){
+        if (con == 0)
+        {
+            $('#troph6').fadeIn('slow');
+            $('#show6').html("Ocultar Logros");
+            con = 1;
+        }
+        else
+        {
+            if (con == 1)
+            {
+                $('#troph6').fadeOut('slow');
+                $('#show6').html("Mostrar Logros");
+                con = 0;
+            }
+        }
+    });
+    
+    $('#show7').click(function(){
+        if (con == 0)
+        {
+            $('#troph7').fadeIn('slow');
+            $('#show7').html("Ocultar Logros");
+            con = 1;
+        }
+        else
+        {
+            if (con == 1)
+            {
+                $('#troph7').fadeOut('slow');
+                $('#show7').html("Mostrar Logros");
+                con = 0;
+            }
+        }
+    });
+    $('#show8').click(function(){
+        if (con == 0)
+        {
+            $('#troph8').fadeIn('slow');
+            $('#show8').html("Ocultar Logros");
+            con = 1;
+        }
+        else
+        {
+            if (con == 1)
+            {
+                $('#troph8').fadeOut('slow');
+                $('#show8').html("Mostrar Logros");
+                con = 0;
+            }
+        }
+    });
+    $('#show9').click(function(){
+        if (con == 0)
+        {
+            $('#troph9').fadeIn('slow');
+            $('#show9').html("Ocultar Logros");
+            con = 1;
+        }
+        else
+        {
+            if (con == 1)
+            {
+                $('#troph9').fadeOut('slow');
+                $('#show9').html("Mostrar Logros");
+                con = 0;
+            }
+        }
+    });
+    $('#show10').click(function(){
+        if (con == 0)
+        {
+            $('#troph10').fadeIn('slow');
+            $('#show10').html("Ocultar Logros");
+            con = 1;
+        }
+        else
+        {
+            if (con == 1)
+            {
+                $('#troph10').fadeOut('slow');
+                $('#show10').html("Mostrar Logros");
+                con = 0;
+            }
+        }
+    });
+    //********FIN FUNCIONES MUESTRA DE LOGROS********
+    
+    //********SOUND********
+    var mus = 0;
+    $('.pause').click(function(){
+        if (mus == 0)
+        {
+            $("#backmusic").remove();
+            mus = 1;
+        }
+        else 
+        {
+            if (mus == 1)
+            {
+               $("body").append('<embed src="sound/soundback.mp3" hidden="true" loop="99" id="backmusic">');   
+            }
+            mus = 0;
+        }
+    });
+    //********FIN SOUND********
+});
