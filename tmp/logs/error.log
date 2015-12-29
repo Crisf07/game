@@ -22465,3 +22465,12 @@ Request URL: /frghjk
 Stack Trace:
 #0 /var/www/game/webroot/index.php(112): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
+2015-12-29 11:07:32 Error: [MissingControllerException] Controller class FrghjkController could not be found.
+Exception Attributes: array (
+  'class' => 'FrghjkController',
+  'plugin' => NULL,
+)
+Request URL: /frghjk
+Stack Trace:
+#0 /var/www/game/webroot/index.php(112): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
